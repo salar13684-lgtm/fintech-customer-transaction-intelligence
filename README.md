@@ -51,6 +51,33 @@ The project is designed to answer practical business questions including:
 
 ---
 
+# 🖼️ Dashboard Screenshots
+
+Place the following screenshots in the repository's `screenshots/` folder:
+
+### 01 — Executive Overview
+![Executive Overview](screenshots/01-executive-overview-customer-transaction-analytics.jpg)
+
+### 02 — Revenue & Segment Analysis
+![Revenue and Segment Analysis](screenshots/02-revenue-segment-analysis-fintech.jpg)
+
+### 03 — Customer Intelligence
+![Customer Intelligence](screenshots/03-customer-intelligence-analysis.jpg)
+
+### 04 — Customer Risk & Retention
+![Customer Risk and Retention](screenshots/04-customer-risk-retention-analysis.jpg)
+
+### 05 — High-Value & At-Risk Customers
+![High Value At Risk Customers](screenshots/05-high-value-at-risk-customers.jpg)
+
+### 06 — FinTech Transaction Intelligence
+![Transaction Intelligence](screenshots/06-fintech-transaction-intelligence-dashboard.jpg)
+
+### 07 — Business Insights & Recommendations
+![Business Insights](screenshots/07-business-insights-recommendations.jpg)
+
+---
+
 ## 📌 Executive KPI Snapshot
 
 The dashboard's analytical dataset contains:
@@ -460,33 +487,6 @@ Provides:
 - Business implication
 - Recommendation
 - Methodology and assumptions
-
----
-
-# 🖼️ Dashboard Screenshots
-
-Place the following screenshots in the repository's `screenshots/` folder:
-
-### 01 — Executive Overview
-![Executive Overview](screenshots/01-executive-overview-customer-transaction-analytics.jpg)
-
-### 02 — Revenue & Segment Analysis
-![Revenue and Segment Analysis](screenshots/02-revenue-segment-analysis-fintech.jpg)
-
-### 03 — Customer Intelligence
-![Customer Intelligence](screenshots/03-customer-intelligence-analysis.jpg)
-
-### 04 — Customer Risk & Retention
-![Customer Risk and Retention](screenshots/04-customer-risk-retention-analysis.jpg)
-
-### 05 — High-Value & At-Risk Customers
-![High Value At Risk Customers](screenshots/05-high-value-at-risk-customers.jpg)
-
-### 06 — FinTech Transaction Intelligence
-![Transaction Intelligence](screenshots/06-fintech-transaction-intelligence-dashboard.jpg)
-
-### 07 — Business Insights & Recommendations
-![Business Insights](screenshots/07-business-insights-recommendations.jpg)
 
 ---
 
